@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsMouse } from "react-icons/bs"
+import { BsMouse } from "react-icons/bs";
 
 import Logo from "../assets/logo.png"
 
